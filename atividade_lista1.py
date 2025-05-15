@@ -27,6 +27,7 @@ while True:
 Lista2.sort() #.Sort" coloca os números em ordem.
 repeat = set(Lista2) # "Set" remove repetições.
 print(f'Essa é a lista dada pelo usuário: {Lista2}')
+print('OI')
 
     
 
